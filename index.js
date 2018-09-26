@@ -18,6 +18,8 @@ function happyHolidayTo(holiday, name) {
 
 }
 
+
+
 happyHolidaysTo(Juan);
 
 happyHolidayTo(Halloween, Peter);
