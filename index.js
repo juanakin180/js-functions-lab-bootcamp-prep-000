@@ -12,5 +12,7 @@ function happyHolidaysTo(name) {
   
 }
 
+function happyHolidayTo()
+
 
 happyHolidaysTo(Juan);
